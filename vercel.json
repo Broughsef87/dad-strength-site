@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://www.dadstrength.tech/", "permanent": true },
+    { "source": "/:path*", "destination": "https://www.dadstrength.tech/", "permanent": true }
+  ]
+}
